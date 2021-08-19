@@ -1,4 +1,4 @@
 ## Hi, I'm Fridux,
 a GNU/Linux user and Windows hater!
 
-I'm currently interrested in creating Java GUIs with swing.
+I'm currently learning the nuts and bolts of C# and .NET.
